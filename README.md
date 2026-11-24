@@ -4,8 +4,11 @@ An iOS Swift application for **badminton shuttlecock trajectory analysis**.
 
 This project focuses on video-based shuttle tracking and shot-analysis workflows for badminton match or practice footage.
 Introduction video: https://drive.google.com/file/d/1-_XzzuAwotA9j5szZ7IhCDYgHAu9T6I-/view?usp=drivesdk
+
 Sample Video 1：https://drive.google.com/file/d/1lixhGxdPrCGZZSOFcuCImWY7S84jRXZK/view?usp=drivesdk
+
 Sample Video 2：https://drive.google.com/file/d/1W0q_8N864KN-yJqAT7MABwYbK6rODFRK/view?usp=drivesdk
+
 csv file of two video: https://drive.google.com/file/d/15-uef-fj-_wz4Cc4dAxi9Ot0Guybq8hD/view?usp=drivesdk
 
 ## Main Workflow
