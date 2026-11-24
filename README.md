@@ -45,6 +45,3 @@ This design improves robustness while avoiding over-reliance on unstable short-b
 2. Open `Badminton Lab.xcodeproj` in Xcode.
 3. Build and run the app from Xcode.
 
-## Original iOS project author
-
-Kyle Kan
